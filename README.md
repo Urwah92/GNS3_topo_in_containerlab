@@ -28,7 +28,7 @@ Update the client image references in frr01.clab.yaml accordingly.
 ### Switches (Arista cEOS)
 The cEOS image must be correctly specified in the YAML file.
 
-A recommended image can be pulled from Docker Hub using the following command:
+My ceos image can be pulled from Docker Hub using the following command:
 
     docker pull testing954/ceos:4.28.0F
 
